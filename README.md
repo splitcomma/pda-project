@@ -1,13 +1,17 @@
 # Programming for Data Analysis Project
 
+
 ## How to run this Jupyter notebook
+
+
 
 ## Problem Statement
 
 Creating a data set by simulating a real-world phenomenon of my choice.
 Modelling and synthesise using Python.
 
-## Requirements
+
+## Requirements
 
 • Choose a real-world phenomenon that can be measured and for which you could
 collect at least one-hundred data points across at least four different variables.
