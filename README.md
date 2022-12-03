@@ -5,8 +5,8 @@ This repository contains a project including a dataset simulation and its analys
 ## How to run this Jupyter notebook
 
 ### Installation requirements:
-[Python](https://www.pypa.io/en/latest/)
-[Miniconda](https://docs.conda.io/en/latest/miniconda.html#windows-installers)
+- [Python](https://www.pypa.io/en/latest/)
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html#windows-installers)
 
 Run this command to make sure Miniconda is installed
 
@@ -14,7 +14,7 @@ Run this command to make sure Miniconda is installed
 conda --version
 ```
 
-install a few key packages. In the Anaconda Prompt, type
+Install a few key packages. In the Anaconda Prompt, type
 ```
 conda install jupyter
 ```
