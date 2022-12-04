@@ -36,7 +36,13 @@ pip install seaborn
 pip install numpy
 ```
 
+In case if jupyter notebook doesn't run on Windows laptop, please check this (solution)[https://stackoverflow.com/questions/41034866/running-jupyter-via-command-line-on-windows]
+Run:
+```
+python -m notebook
+```
 
-
+Further references for installing and setup Jupyter at this [link](https://www.codecademy.com/article/setting-up-jupyter-notebook)
+Used reference for formatting README at this [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
