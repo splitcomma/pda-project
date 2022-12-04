@@ -36,7 +36,7 @@ pip install seaborn
 pip install numpy
 ```
 
-In case if jupyter notebook doesn't run on Windows laptop, please check this (solution)[https://stackoverflow.com/questions/41034866/running-jupyter-via-command-line-on-windows]
+In case if jupyter notebook doesn't run on Windows laptop, please check this [solution](https://stackoverflow.com/questions/41034866/running-jupyter-via-command-line-on-windows)
 Run:
 ```
 python -m notebook
